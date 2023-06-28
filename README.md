@@ -33,5 +33,5 @@ The following code example uses Oracle Developer Tools for Visual Studio (ODT) t
 <img src="picture_library/hr/fig2.png" />
 <p>Fig 3. Retrieving the list of schema objects of system user.</p>
 <img src="picture_library/hr/fig3.png" />
-Note 1: You will find in many Oracle's texts that some people using schema and user indistinctly.
-Note 2: Oracle validates that the users have permissions to use the schema objects being accessed by theirs.
+<p>Note 1: You will find in many Oracle's texts that some people using schema and user indistinctly.</p>
+<p>Note 2: Oracle validates that the users have permissions to use the schema objects being accessed by theirs.</p>
