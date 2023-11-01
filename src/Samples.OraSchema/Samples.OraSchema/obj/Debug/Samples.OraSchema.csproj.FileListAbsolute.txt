@@ -1,0 +1,6 @@
+c:\users\martin\documents\visual studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\bin\Debug\Samples.OraSchema.exe.config
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\bin\Debug\Samples.OraSchema.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\bin\Debug\Samples.OraSchema.pdb
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\obj\Debug\Samples.OraSchema.exe
+C:\Users\Martin\Documents\Visual Studio 2015\Projects\Samples.OraSchema\Samples.OraSchema\obj\Debug\Samples.OraSchema.pdb
