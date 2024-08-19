@@ -22,7 +22,7 @@ The HR schema is a sample schema that Oracle makes available for learning purpos
 
 https://www.oracle.com/technetwork/developer-tools/datamodeler/sample-models-scripts-224531.html
 <p>Fig 1. Entity Relationship Diagram for HR Schema.</p>
-<img src="picture_library/hr/schemahr.png" width="700" />
+<img src="images/schemahr.png" width="700" />
 
 Schemas present a layer of abstraction for your data structure and it helps to avoid a problem called name collision. Let me show you an example: if we don't use schemas a user called Bob can create a table called Employees, and then another user called Alice cannot create a table called Employees on the same schema that Bob, but Alice can create a table in a different schema. Other users can access or execute objects within a user's schema once the schema owner grants privileges.
 
@@ -30,8 +30,8 @@ List schema objects using .NET
 The following code example uses Oracle Developer Tools for Visual Studio (ODT) to retrieve the list of schema objects that are available and then displaying them. You can download the project source code for this link.
 
 <p>Fig 2. Retrieving the list of schema objects of hr user.</p>
-<img src="picture_library/hr/fig2.png" />
+<img src="images/fig2.png" />
 <p>Fig 3. Retrieving the list of schema objects of system user.</p>
-<img src="picture_library/hr/fig3.png" />
+<img src="images/fig3.png" />
 <p>Note 1: You will find in many Oracle's texts that some people using schema and user indistinctly.</p>
 <p>Note 2: Oracle validates that the users have permissions to use the schema objects being accessed by theirs.</p>
